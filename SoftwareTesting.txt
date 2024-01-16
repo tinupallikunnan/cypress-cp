@@ -1,0 +1,61 @@
+Software testing is a process of identifying the correctness of software by considering its all attributes (Reliability, Scalability, Portability, Re-usability, Usability) and evaluating the execution of software components to find the software bugs or errors or defects.
+
+Testing is mandatory because it will be a dangerous situation if the software fails any of time due to lack of testing. So, without testing software cannot be deployed to the end user.
+
+Testing includes an examination of code and also the execution of code in various environments, conditions as well as all the examining aspects of the code. In the current scenario of software development, a testing team may be separate from the development team so that Information derived from testing can be used to correct the process of software development.
+
+Manual testing
+The process of checking the functionality of an application as per the customer needs without taking any help of automation tools is known as manual testing. While performing the manual testing on any application, we do not need any specific knowledge of any testing tool, rather than have a proper understanding of the product so we can easily prepare the test document.
+
+Automation testing
+Automation testing is a process of converting any manual test cases into the test scripts with the help of automation tools, or any programming language is known as automation testing. With the help of automation testing, we can enhance the speed of our test execution because here, we do not require any human efforts. We need to write a test script and execute those scripts.
+
+Types of Software Testing
+Functional Testing and Non-functional Testing
+
+Functional testing focuses on whether the software or system works as intended, i.e., whether it meets the functional requirements. It involves testing the features and functionalities of the software, such as input/output, error handling, and user interface.Functional testing can be performed manually or using automated testing tools. It is typically done after the completion of unit and integration testing and before the start of system testing.
+
+For example, if you are testing a calculator app, you would check whether it can perform basic arithmetic operations like addition, subtraction, multiplication, and division correctly. You would also check if the user interface is user-friendly, the buttons are working correctly, and the app is responsive to user input.
+
+For example, if you are testing an e-commerce website, functional testing would involve testing whether the website can perform tasks such as adding items to the cart, applying discounts, calculating taxes, and processing payments correctly. The testers would also check whether the website is user-friendly and whether the links, buttons, and menus work as intended.
+
+
+
+
+Non-functional testing, on the other hand, is focused on testing the non-functional aspects of the software, such as performance, security, usability, reliability, and compatibility. Non-functional testing helps to ensure that the software meets the quality standards and performs well under different conditions.
+
+For example, if you are testing a website, you would check whether it can handle many concurrent users without slowing down or crashing. You would also check whether the website is secure from potential cyber threats like hackers or viruses. Additionally, you would check whether the website is accessible and easy for people with disabilities.A good example of non-functional test would be to check how many people can simultaneously login into a software.
+
+
+
+Key Differences between functional and non-functional testing
+Functional Testing
+It focuses on testing the functionality of the software or system.
+Verifies whether the software meets the functional requirements.
+It involves testing the features and functionalities of the software, such as input/output, error handling, and user interface.
+Tests are typically conducted using test cases or scenarios that validate the functional requirements.
+It can be performed manually or using automated testing tools.
+It was done after unit testing and integration testing and before system testing.
+Non-Functional Testing
+It focuses on testing the system's or software's non-functional components.
+Checks to see if the software satisfies the non-functional requirements, including performance, security, usability, reliability, and compatibility.
+It involves putting the software's quality characteristics, including response time, scalability, availability, and maintainability, to the test.
+Several testing methods, including load testing, stress testing, security testing, and usability testing, are used.
+Specialist testing techniques and frameworks are frequently needed to measure and assess non-functional requirements.
+Many development lifecycle stages, including design, deployment, and maintenance, can be completed.
+Benefits of Functional Testing and Non- Functional Testing
+Benefits of Functional Testing
+It makes it possible to make that the program complies with the functional specifications listed in the design or requirements documentation
+Reduces the cost and difficulty of repairing software faults and problems later on by finding them early in the development cycle.
+It assures users that the software will work as intended and meet their expectations.
+Ensuring that the user interface, input/output, and error handling correctly contributes to enhancing the user experience.
+Ensures that the software is of a high standard and satisfies the requirements of both the users and the business.
+Benefits of Non-Functional Testing
+Ensuring the program satisfies the non-functional requirements, including performance, security, usability, reliability, and compatibility.
+Detects performance stumbling blocks, security holes, usability problems, and other non-functional flaws before they affect end users.
+Ensuring the software is responsive, scalable, and user-friendly enhances the user experience.
+Ensures that the program complies with rules and standards set by the industry.
+Increases trust in the software's performance in real-world circumstances and under different loads and conditions.
+
+
+
